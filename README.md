@@ -1,3 +1,3 @@
 # EmployeeManager.ApiClient
 
-ApiClient should be used with EmployeeManager.Api. 
+ApiClient was used with EmployeeManager.Api. 
